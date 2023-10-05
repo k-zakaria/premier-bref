@@ -41,7 +41,7 @@
     text-align: center;
     height: 30vh;
 }
-.custom-hero-inner img{
+.custom-hero .custom-hero-inner img{
     height: 200px;
 }
 
@@ -53,7 +53,7 @@
 .custom-hero .custom-hero-title {
     font-size: 36px;
     font-weight: 100;
-    color: #333;
+    color: #555;
 }
 
 .custom-hero .custom-hero-description {
@@ -72,7 +72,7 @@
     border-radius: 4px;
 }
 
-.custom-primary-btn {
+ .custom-primary-btn {
     background-color: #007bff;
     color: #fff;
 }
